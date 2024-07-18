@@ -1,7 +1,7 @@
 ### Hi there, I'm Enzo Salomão 👋
 
 I'm currently pursuing a degree in Systems Analysis and Development and have a passion for creating web and mobile applications. I'm working as a Junior Analyst at RNP, contributing to projects aimed at enhancing academic digital infrastructure.
-Check out my [Portfolio](https://myportfolio-psi-wine.vercel.app/)
+Check out my [Portfolio](https://www.enzodourado.shop/)
 
 ## 🌟 About Me :D
 From a young age, I've been fascinated by gaming, a passion that has led me deeper into the world of technology. I began by crafting custom Minecraft modpacks for friends.
