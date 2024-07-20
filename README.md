@@ -1,11 +1,10 @@
-### Hi there, I'm Enzo Salomão 👋
+### Olá, I'm Enzo Salomão 👋
 
-I'm currently pursuing a degree in Systems Analysis and Development and have a passion for creating web and mobile applications. I'm working as a Junior Analyst at RNP, contributing to projects aimed at enhancing academic digital infrastructure.
+Estou em formação em Análise e Desenvolvimento de Sistemas e tenho uma grande paixão por desenvolver aplicações web e mobile. Atualmente, atuo como Analista de TI na RNP, contribuindo para projetos que visam aprimorar a infraestrutura digital acadêmica.
 Check out my [Portfolio](https://www.enzodourado.shop/)
 
-## 🌟 About Me :D
-From a young age, I've been fascinated by gaming, a passion that has led me deeper into the world of technology. I began by crafting custom Minecraft modpacks for friends.
-Beyond gaming, I'm an avid fan of movies and series.
+## Sobre mim :D
+Possuo experiência prática na criação de projetos, participando ativamente em uma startup focada na gestão imobiliária. Nessa startup, desenvolvemos sistemas inovadores que ajudam os usuários a maximizar e gerenciar seus portfólios imobiliários online com eficiência e facilidade.
 
 ## 🛠️ Technologies and Tools
 - **Frontend:** ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript)
