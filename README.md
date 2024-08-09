@@ -1,4 +1,4 @@
-<h2 align="left">Olá 👋! Meu nome é Enzo Salomão e  sou desenvolvedor...</h2>
+<h2 align="left">Olá 👋! Meu nome é Enzo Salomão e sou desenvolvedor...</h2>
 
 ###
 
@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnBxOWlob2xvYnlwNXFyb21pdnFscXZ5MXFkdXd5OHFxdG1sMDNvZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GrB9uThYsoU3C/giphy.gif"  />
+<img align="right" height="150" src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 ###
 
@@ -37,7 +37,7 @@
 
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <a href="enzosadourado9@gmail.com" target="_blank">
+  <a href="mailto:enzosadourado9@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/enzo-salom%C3%A3o-13391626b/" target="_blank">
@@ -47,6 +47,11 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/EnzoMoita/EnzoMoita/output/snake.svg" alt="Snake animation" />
+### 🌐 Visite meu Portfólio
+- Confira meu trabalho e projetos no [meu portfólio](https://www.enzodourado.shop/).
+
+###
+
+<img src="https://github.com/EnzoMoita/EnzoMoita/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 ###
