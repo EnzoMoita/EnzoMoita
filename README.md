@@ -47,8 +47,6 @@
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/EnzoMoita/EnzoMoita/output/snake.svg" alt="Snake animation" />
 
 ###
