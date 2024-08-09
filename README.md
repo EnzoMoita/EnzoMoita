@@ -1,15 +1,54 @@
-### Olá, I'm Enzo Salomão 👋
+<h2 align="left">Olá 👋! Meu nome é Enzo Salomão e  sou desenvolvedor...</h2>
 
-Estou em formação em Análise e Desenvolvimento de Sistemas e tenho uma grande paixão por desenvolver aplicações web e mobile. Atualmente, atuo como Analista de TI na RNP, contribuindo para projetos que visam aprimorar a infraestrutura digital acadêmica.
-Check out my [Portfolio](https://www.enzodourado.shop/)
+###
 
-## Sobre mim :D
-Possuo experiência prática na criação de projetos, participando ativamente em uma startup focada na gestão imobiliária. Nessa startup, desenvolvemos sistemas inovadores que ajudam os usuários a maximizar e gerenciar seus portfólios imobiliários online com eficiência e facilidade.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=EnzoMoita&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EnzoMoita&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-## 🛠️ Technologies and Tools
-- **Frontend:** ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript)
-- **Backend:** ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js) ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs) ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
-- **DevOps:** ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)
+###
 
-## 📫 How to Reach Me
-- [LinkedIn](https://www.linkedin.com/in/enzo-salom%C3%A3o-13391626b/)
+<img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnBxOWlob2xvYnlwNXFyb21pdnFscXZ5MXFkdXd5OHFxdG1sMDNvZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GrB9uThYsoU3C/giphy.gif"  />
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30" alt="kubernetes logo"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <a href="enzosadourado9@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/enzo-salom%C3%A3o-13391626b/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/EnzoMoita/EnzoMoita/output/snake.svg" alt="Snake animation" />
+
+###
