@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnBxOWlob2xvYnlwNXFyb21pdnFscXZ5MXFkdXd5OHFxdG1sMDNvZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GrB9uThYsoU3C/giphy.gif"  />
 
 ###
 
@@ -52,6 +52,6 @@
 
 ###
 
-<img src="https://github.com/EnzoMoita/EnzoMoita/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 ###
