@@ -46,7 +46,7 @@
 
 ###
 
-### 🌐 Visite meu Portfólio
+### 🌐 Visite meu Portfólio :)
 - Confira meu trabalho e projetos no [meu portfólio](https://www.enzodourado.shop/)
 
 ###
