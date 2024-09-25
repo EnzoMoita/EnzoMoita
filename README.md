@@ -1,4 +1,4 @@
-<h2 align="left">Olá 👋! Meu nome é Enzo Salomão e sou desenvolvedor...</h2>
+<h2 align="left">Olá 👋! Meu nome é Enzo Salomão e sou desenvolvedor....</h2>
 
 ###
 
